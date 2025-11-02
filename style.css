@@ -73,3 +73,11 @@ textarea {
     height: 100%;
     border: none;
 }
+
+@media  (max-width:575px) {
+  
+ .right{
+   width: 180px;
+   margin-right: 20px;
+ }
+}
